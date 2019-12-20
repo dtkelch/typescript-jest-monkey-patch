@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "jsx": "react",
+    "types": ["jest"],
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+  },
+  "exclude": ["node_modules"],
+  "include": ["jest.d.ts", "**/*.ts"]
+}

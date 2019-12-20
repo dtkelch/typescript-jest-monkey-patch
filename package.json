@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "version": "0.0.0",
+  "name": "example-typescript",
+  "dependencies": {
+    "react": "*",
+    "react-dom": "*",
+    "typescript": "*"
+  },
+  "devDependencies": {
+    "@babel/core": "*",
+    "@babel/preset-env": "*",
+    "@babel/preset-react": "*",
+    "@babel/preset-typescript": "^7.7.7",
+    "@types/jest": "^24.0.24",
+    "babel-jest": "*",
+    "jest": "*",
+    "ts-jest": "^24.2.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
